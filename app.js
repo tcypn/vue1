@@ -12,6 +12,9 @@ Vue.createApp({
       }
     }
   }).mount('#app');
+
+
+  
 // Vue.createApp({
 //     data(){
 //         return{
